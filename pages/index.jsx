@@ -23,7 +23,7 @@ export default function Home() {
       quality: 1,
     },
   });
-  const eventsBgBlurred = buildUrl("events-bg_rhme7l", {
+  const eventsBgBlurred = buildUrl("events_bg_lft03m", {
     cloud: {
       cloudName: "kaka777",
     },
@@ -344,7 +344,7 @@ export default function Home() {
         >
           <Image
             layout="fill"
-            src="https://res.cloudinary.com/kaka777/image/upload/v1631201303/events-bg_rhme7l.png"
+            src="https://res.cloudinary.com/kaka777/image/upload/v1634450146/events_bg_lft03m.png"
             alt="Hultprize"
             className="z-20 object-cover"
           />
