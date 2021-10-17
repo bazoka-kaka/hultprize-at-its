@@ -12,8 +12,6 @@ import { ReactYouTubeLite } from "react-youtube-lite";
 import Link from "next/link";
 import Image from "next/image";
 import buildUrl from "cloudinary-build-url";
-import { faFire } from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 export default function Home() {
   const mainBgBlurred = buildUrl("main-bg_a8s5hk", {
