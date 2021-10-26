@@ -369,7 +369,7 @@ export default function Home() {
                   {t("common:our-events")}
                 </h1>
                 <div
-                  className="h-2 w-72"
+                  className="self-center h-2 w-72"
                   style={{
                     background:
                       "linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0.4) 100%)",
